@@ -1,0 +1,9 @@
+bpcrtos\device.o: ../Middlewares/Third_Party/RealThread_RTOS/components/device/device.c
+bpcrtos\device.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+bpcrtos\device.o: ../RT-Thread/rtconfig.h
+bpcrtos\device.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+bpcrtos\device.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+bpcrtos\device.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+bpcrtos\device.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+bpcrtos\device.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+bpcrtos\device.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h

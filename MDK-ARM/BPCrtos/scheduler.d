@@ -1,0 +1,10 @@
+bpcrtos\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/src/scheduler.c
+bpcrtos\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+bpcrtos\scheduler.o: ../RT-Thread/rtconfig.h
+bpcrtos\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+bpcrtos\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+bpcrtos\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+bpcrtos\scheduler.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+bpcrtos\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+bpcrtos\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h
+bpcrtos\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rthw.h

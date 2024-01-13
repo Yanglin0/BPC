@@ -1,0 +1,17 @@
+bpcrtos\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/components/finsh/msh.c
+bpcrtos\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+bpcrtos\msh.o: ../RT-Thread/rtconfig.h
+bpcrtos\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+bpcrtos\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+bpcrtos\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+bpcrtos\msh.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+bpcrtos\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+bpcrtos\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h
+bpcrtos\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/components/finsh/msh.h
+bpcrtos\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh.h
+bpcrtos\msh.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+bpcrtos\msh.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+bpcrtos\msh.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+bpcrtos\msh.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+bpcrtos\msh.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+bpcrtos\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/shell.h

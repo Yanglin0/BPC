@@ -1,0 +1,10 @@
+bpcrtos\kservice.o: ../Middlewares/Third_Party/RealThread_RTOS/src/kservice.c
+bpcrtos\kservice.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+bpcrtos\kservice.o: ../RT-Thread/rtconfig.h
+bpcrtos\kservice.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+bpcrtos\kservice.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+bpcrtos\kservice.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+bpcrtos\kservice.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+bpcrtos\kservice.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+bpcrtos\kservice.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h
+bpcrtos\kservice.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rthw.h
